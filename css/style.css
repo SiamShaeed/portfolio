@@ -1,0 +1,82 @@
+.wraper{
+  width: 500px;
+  height: auto;
+  background:rgb(105, 160, 161);
+  margin: 0 auto;
+}
+.container{
+  width: 80%;
+  margin: 0 auto;
+  padding: 15px 0px;
+}
+.form_title{
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 25px;
+}
+.row{
+  width: 100% ;
+  
+}
+label{
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+  display: block;
+  padding: 5px 0px;
+}
+.row_item{
+  width: 100%;
+}
+.row_item input{
+  width: 100%;
+  padding: 10px 0px;
+}
+.row_item_select{
+  width: 100%;
+  padding: 20px 0px 10px 0px;
+}
+.row_item_select select{
+  width: 100%;
+  padding: 10px 10px;
+}
+.chack_box{
+  padding-top: 10px;;
+}
+.chack_box{
+  font-size: 18px;
+}
+.from_button{
+  text-align: center;
+  margin-top: 10px;
+}
+from_button:hover{
+  background: #69A0A1;
+}
+.from_button input{
+  font-size: 20px;
+  font-family: roboto;
+  font-weight: bold;
+  padding: 10px 20px;
+  cursor: pointer;
+  transform: 1s;
+  border-radius: 8%;
+  border: 3px solid #000;
+}
+.from_button input:hover{
+  color: #fff;
+  background: #69A0A1;
+  border: 3px solid #fff;
+  transition: .8s;
+}
+.marginButtom{
+  margin-bottom: 20px;
+}
+.forget_pass a{
+  color: #fff;
+  font-size: 18px;
+  text-decoration: none;
+}
+.forget_pass a:hover{
+  color: #000;
+}
